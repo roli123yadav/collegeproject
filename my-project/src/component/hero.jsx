@@ -31,7 +31,7 @@ export default function HeroSaaS3() {
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
             <button className="group px-10 py-5 bg-black text-yellow-500  font-bold rounded-full hover:shadow-2xl transform hover:scale-105 transition-all duration-300">
               <span className="flex items-center gap-3">
-                JOIN mohd.collage
+                join dds institute
                 <svg
                   className="w-5 h-5 group-hover:translate-x-1 transition-transform"
                   fill="none"
